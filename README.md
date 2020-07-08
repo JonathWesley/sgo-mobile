@@ -1,0 +1,1 @@
+Projeto para implementar o sistema de gerenciamento de operações em ambiente mobile
